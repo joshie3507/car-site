@@ -1,0 +1,8 @@
+distance
+make
+model
+min/max price
+min/max mileage
+min/max year
+gearbox - e.g. automatic/manuel
+fuel type - e.g. petrol/diesel/electric/hybrid/plug-in hybrid
