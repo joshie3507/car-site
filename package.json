@@ -1,0 +1,20 @@
+{
+  "name": "carsite",
+  "version": "1.0.0",
+  "description": "a site that will gather listings from multiple sites to sell cars (e.g. Autotrader, cargurus) into one place rather than looking in multiple separate places",
+  "homepage": "https://github.com/joshie3507/car-site#readme",
+  "bugs": {
+    "url": "https://github.com/joshie3507/car-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshie3507/car-site.git"
+  },
+  "license": "ISC",
+  "author": "Joshua Sheridan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
